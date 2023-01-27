@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Board Charter:: Edit</title>
+<!-- TemplateEndEditable -->
+
+
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="../admin_html/images/icons/favicon.ico" rel="shortcut icon">
+    
+    <!--Loading bootstrap css-->
+    <link type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,700,700italic,300italic' rel='stylesheet' type='text/css'>
+    
+<link type="text/css" rel="stylesheet" href="../admin_html/vendors/jquery-ui-1.10.3.custom/css/ui-lightness/jquery-ui-1.10.3.custom.css">
+<link type="text/css" rel="stylesheet" href="../admin_html/vendors/font-awesome/css/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="../admin_html/vendors/bootstrap/css/bootstrap.min.css">
+    
+    <!--LOADING SCRIPTS FOR PAGE-->
+<link type="text/css" rel="stylesheet" href="../admin_html/vendors/bootstrap-datepicker/css/datepicker.css">
+<link type="text/css" rel="stylesheet" href="../admin_html/vendors/bootstrap-switch/css/bootstrap-switch.css">
+    
+    <!--Loading style vendors-->
+<link type="text/css" rel="stylesheet" href="../admin_html/vendors/animate.css/animate.css">
+<link type="text/css" rel="stylesheet" href="../admin_html/vendors/jquery-pace/pace.css">
+    
+    <!--Loading style-->
+<link type="text/css" rel="stylesheet" href="../admin_html/css/style.css">
+<link type="text/css" rel="stylesheet" href="../admin_html/css/style-mango.css" id="theme-style">
+<link type="text/css" rel="stylesheet" href="../admin_html/css/vendors.css">
+<link type="text/css" rel="stylesheet" href="../admin_html/css/themes/grey.css" id="color-style">
+	
+    
+    <!-- kym front end style -->
+<link type="text/css" rel="stylesheet" href="../admin_html/css/style_kym_front.css">
+<link type="text/css" rel="stylesheet" href="../admin_html/css/skeleton_kym_front.css">
+    
+	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body>
+<div>
+<!--BEGIN TO TOP--><a id="totop" href="#"><i class="fa fa-angle-up"></i></a><!--END BACK TO TOP-->
+  <div id="wrapper"><!--BEGIN TOPBAR-->
+        <nav id="topbar" role="navigation" style="margin-bottom: 0;" class="navbar navbar-default navbar-static-top">
+          <div class="navbar-header">
+                <button type="button" data-toggle="collapse" data-target=".sidebar-collapse" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+          <a id="logo" href="http://www.webqom.com/web88.html" target="_blank" class="navbar-brand"><img src="../admin_html/images/logo_web88.png"></a>          </div>
+            
+            	<div class="topbar-main">
+                	<a id="logo" href="http://www.kym.com.my" class="navbar-brand" target="_blank"><img src="../admin_html/images/logo.jpg"></a>
+                    <a id="menu-toggle" href="#" class="btn hidden-xs"><i class="fa fa-bars"></i></a>
+                    
+                <form id="topbar-search" action="" method="" class="hidden-sm hidden-xs">
+                    <div class="input-icon right"><a href="#"><i class="fa fa-search"></i></a><input type="text" placeholder="Search here..." class="form-control"/></div>
+                </form>
+                <ul class="nav navbar-top-links navbar-right">
+                
+                    <li class="dropdown"><a data-toggle="dropdown" href="#" class="dropdown-toggle"><img src="../admin_html/images/profile/image_hock.jpg" alt="" class="img-responsive img-circle"/>&nbsp;
+                        Support Webqom
+                        &nbsp;<span class="caret"></span></a>
+<ul class="dropdown-menu dropdown-user pull-right animated bounceInLeft">
+                            <li>
+                                <div class="navbar-content">
+                                    <div class="row">
+                                        <div class="col-md-5 col-xs-5"><img src="../admin_html/images/profile/image_hock.jpg" alt="" class="img-responsive img-circle"/>
+
+                                            <p class="text-center mtm">
+                                            	<a href="#" data-target="#modal-change-avatar" data-toggle="modal" class="change-avatar">
+                                                <small>Change Avatar</small>                                                </a></p>
+                                      </div>
+                                        <div class="col-md-7 col-xs-5"><span>Support Webqom</span>
+
+                                            <p class="text-muted small">support@webqom.com</p>
+
+                                            <div class="divider"></div>
+                                            <!--<a href="#" class="btn btn-primary btn-sm">View Profile</a>-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="navbar-footer">
+                                    <div class="navbar-footer-content">
+                                        <div class="row">
+                                            <div class="col-md-6 col-xs-6"><a href="#" class="btn btn-default btn-sm" data-target="#modal-change-password" data-toggle="modal">Change Password</a></div>
+                                            <div class="col-md-6 col-xs-6"><a href="#" class="btn btn-default btn-sm pull-right">Sign Out</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                      </ul>
+                  </li>
+                </ul>
+          </div>
+</nav>
+        <!--Modal Change Avatar start-->
+                            <div id="modal-change-avatar" tabindex="-1" role="dialog" aria-labelledby="modal-login-label" aria-hidden="true" class="modal fade">
+                              <div class="modal-dialog">
+                                <div class="modal-content">
+                                  <div class="modal-header">
+                                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close">&times;</button>
+                                    <h4 id="modal-login-label2" class="modal-title">Change Avatar</h4>
+                                  </div>
+                                  <div class="modal-body">
+                                    <div class="form">
+                                      <form class="form-horizontal">
+                                        
+                                        <div class="form-group">
+                                          <label class="col-md-4 control-label">Upload Avatar Image </label>
+                                          <div class="col-md-8">
+                                            <div class="text-15px margin-top-10px"> 
+                                           	  <img src="../admin_html/images/profile/image_hock.jpg" alt="Avatar" class="img-responsive"><br/>
+                                                <input id="exampleInputFile1" type="file"/>
+                                              <br/>
+                                                <span class="help-block">(Image dimension: 100 x 100 pixels, JPEG/GIF/PNG only, Max. 2MB) </span> </div>
+                                          </div>
+                                        </div>
+                                        
+                                        <div class="form-actions">
+                                          <div class="col-md-offset-4 col-md-8"> <a href="#" class="btn btn-red">Save &nbsp;<i class="fa fa-floppy-o"></i></a>&nbsp; <a href="#" data-dismiss="modal" class="btn btn-green">Cancel &nbsp;<i class="glyphicon glyphicon-ban-circle"></i></a> </div>
+                                        </div>
+                                      </form>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+    </div>
+                          <!--END MODAL Change Avatar-->
+        <!--Modal Change Password start-->
+                <div id="modal-change-password" tabindex="-1" role="dialog" aria-labelledby="modal-login-label" aria-hidden="true" class="modal fade">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" data-dismiss="modal" aria-hidden="true" class="close">&times;</button>
+                                <h4 id="modal-login-label" class="modal-title"><a href=""><i class="fa fa-exclamation-triangle"></i></a> Change Password</h4></div>
+                            <div class="modal-body">
+                                <div class="form">
+                                    <form class="form-horizontal">
+                                        
+                                        <div class="form-group">
+                                        	<label for="password" class="control-label col-md-4">New Password</label>
+
+                                            <div class="col-md-8">
+                                            	<div class="input-icon"><i class="fa fa-key"></i> <input id="password" type="password" placeholder="New Password" class="form-control"/><span class="text-10px">(Password length should be between 6-12 characters)</span>                                                </div>
+                                          </div>
+                                        </div>
+                                        
+                                        <div class="form-group">
+                                        	<label for="password" class="control-label col-md-4">Confirm New Password</label>
+
+                                            <div class="col-md-8">
+                                            	<div class="input-icon"><i class="fa fa-key"></i> <input id="password" type="password" placeholder="Confirm New Password" class="form-control"/><span class="text-10px">(Password length should be between 6-12 characters)</span>                                                </div>
+                                          </div>
+                                        </div>
+                                        <div class="form-actions">
+                                            <div class="col-md-offset-4 col-md-8">
+                                               <a href="#" class="btn btn-red">Save &nbsp;<i class="fa fa-floppy-o"></i></a>&nbsp;
+                                              <a href="#" data-dismiss="modal" class="btn btn-green">Cancel &nbsp;<i class="glyphicon glyphicon-ban-circle"></i></a>                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+    </div>
+        <!--END MODAL CHANGE PASSWORD-->
+        <!--END TOPBAR-->
+        
+        <!--BEGIN SIDEBAR MENU-->
+        <nav id="sidebar" role="navigation" class="navbar-default navbar-static-side">
+          <div class="sidebar-collapse menu-scroll">
+                <ul id="side-menu" class="nav">
+                    <li class="clock"><strong id="get-date"></strong>
+
+                        <div class="digital-clock">
+                            <div id="getHours" class="get-time"></div>
+                            <span>:</span>
+
+                            <div id="getMinutes" class="get-time"></div>
+                            <span>:</span>
+
+                            <div id="getSeconds" class="get-time"></div>
+                        </div>
+                    </li>
+                  <li class="sidebar-heading"><h4>Main Menu</h4></li>
+                  <li><a href="../admin_html/dashboard.html"><i class="fa fa-laptop fa-fw"></i><span class="menu-title">Dashboard</span></a></li>
+                  <li><a href="../admin_html/index_edit.html"><i class="fa fa-home fa-fw"></i><span class="menu-title">Index Page</span></a> </li>
+				  <li><a href="#"><i class="fa fa-briefcase fa-fw"></i><span class="menu-title">Careers</span><span class="fa arrow"></span></a>	
+                      <ul class="nav nav-second-level">
+					    
+                        <li><a href="../admin_html/careers_job_vacancy_list.html">Vacancies Listing</a></li>
+                        <li><a href="../admin_html/careers_online_applicants_list.html">Online Applicants Listing</a></li>
+                      </ul>
+                  </li>
+                  <li class="sidebar-heading"><h4>Contacts</h4></li>
+                  <li><a href="../admin_html/feedback_list.html"><i class="fa fa-coffee fa-fw"></i><span class="menu-title">Feedback Listing</span></a></li>
+                  
+                  <li class="sidebar-heading"><h4>Business</h4></li>
+                  
+                  <li><a href="../admin_html/industrial_paper_bags_edit.html"><i class="fa fa-archive fa-fw"></i><span class="menu-title">Multiwall Industrial Paper Bags</span></a></li>
+                  <li><a href="../admin_html/corrugated_carton_boxes_edit.html"><i class="fa fa-dropbox fa-fw"></i><span class="menu-title">Corrugated Carton Boxes</span></a></li>
+
+                  <li class="sidebar-heading"><h4>Investor Relations</h4></li>
+                  <!-- TemplateBeginEditable name="EditRegion3" -->
+                  <li class="active"><a href="#"><i class="fa fa-list-alt fa-fw"></i><span class="menu-title">Corporate Governance</span><span class="fa arrow"></span></a>	
+                      <ul class="nav nav-second-level in">
+					    
+                        <li class="active"><a href="../admin_html/board_charter_edit.html">Board Charter</a></li>
+                        <li><a href="../admin_html/terms_reference_audit_committee_edit.html">Terms of Reference of Audit Committee</a></li>
+                        <li><a href="../admin_html/terms_reference_nrc_edit.html">Terms of Reference of Nomination &amp; Remuneration Committee</a></li>
+                      </ul>
+                  </li>
+                  <li><a href="../admin_html/financial_information_edit.html"><i class="fa fa-line-chart fa-fw"></i><span class="menu-title">Financial Information</span></a></li>
+                  <li><a href="../admin_html/announcements_edit.html"><i class="fa fa-bullhorn fa-fw"></i><span class="menu-title">Announcements</span></a></li>
+                  <!-- TemplateEndEditable -->
+              </ul>
+          </div>
+    </nav>
+        <!--END SIDEBAR MENU--><!--BEGIN PAGE WRAPPER-->
+      <div id="page-wrapper"><!--BEGIN PAGE HEADER & BREADCRUMB-->
+        
+        <div class="page-header-breadcrumb">
+          <div class="page-heading hidden-xs">
+            <h1 class="page-title">Investor Relations</h1>
+          </div>
+          
+          <!-- TemplateBeginEditable name="EditRegion1" -->
+          <ol class="breadcrumb page-breadcrumb">
+            <li><i class="fa fa-home"></i>&nbsp;<a href="../admin_html/dashboard.html">Dashboard</a>&nbsp; <i class="fa fa-angle-right"></i>&nbsp;</li>
+            <li>Investor Relations &nbsp; <i class="fa fa-angle-right"></i>&nbsp;</li>
+            <li>Corporate Governance &nbsp; <i class="fa fa-angle-right"></i>&nbsp;</li>
+            <li class="active">Board Charter - Edit</li>
+          </ol>
+          <!-- TemplateEndEditable --></div>
+        <!--END PAGE HEADER & BREADCRUMB--><!--BEGIN CONTENT-->
+        <!-- TemplateBeginEditable name="EditRegion2" -->
+        <div class="page-content">
+          <div class="row">
+            <div class="col-lg-12">
+              <h2>Board Charter <i class="fa fa-angle-right"></i> Edit</h2>
+              <div class="clearfix"></div>
+              <div class="alert alert-success alert-dismissable">
+                <button type="button" data-dismiss="alert" aria-hidden="true" class="close">&times;</button>
+                <i class="fa fa-check-circle"></i> <strong>Success!</strong>
+                <p>The information has been saved/updated successfully.</p>
+              </div>
+              <div class="alert alert-danger alert-dismissable">
+                <button type="button" data-dismiss="alert" aria-hidden="true" class="close">&times;</button>
+                <i class="fa fa-times-circle"></i> <strong>Error!</strong>
+                <p>The information has not been saved/updated. Please correct the errors.</p>
+              </div>
+              <div class="pull-left margin-top-10px"> Last updated: <span class="text-blue">15 Sept, 2014 @ 12.00PM</span> </div>
+              <div class="clearfix"></div>
+              <p></p>
+              <div class="portlet">
+                <div class="portlet-header">
+                  <div class="caption">Page Info</div>
+                  <div class="clearfix"></div>
+                  <span class="text-blue text-12px">You can edit the content by clicking the text section below.</span>
+                  <div class="tools"> <i class="fa fa-chevron-up"></i> </div>
+                </div>
+                <div class="portlet-body">
+                  <div contenteditable="true">
+                    <div class="page-title-holder">
+                      <h1>Corporate Governance</h1>
+                    </div>
+                    <div class="clearfix"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="portlet">
+                <div class="portlet-header">
+                  <div class="caption">Page Content</div>
+                  <div class="clearfix"></div>
+                  <span class="text-blue text-12px">You can edit the content by clicking the text section below.</span>
+                  <div class="tools"> <i class="fa fa-chevron-up"></i> </div>
+                </div>
+                <div class="portlet-body">
+                  <div class="container">
+                    <div class="clearfix">
+                      <div class="grid_12">
+                        <header class="entry-header clearfix">
+                          <div class="entry-header-inner">
+                            <div contenteditable="true">
+                              <h3 class="entry-title">Board Charter</h3>
+                            </div>
+                          </div>
+                        </header>
+                        <div class="clearfix">
+                          <div contenteditable="true">
+                            <h4>1. PURPOSE</h4>
+                            <p>This Board Charter sets out the principle functions, composition, duties and responsibilities of the Board of Directors ("Board") of KYM Holdings Bhd ("KYM" or "Company") in accordance with good corporate governance set out in the guidelines issued by the regulatory authorities.</p>
+                            <p>The Board of KYM has adopted this Board Charter, which applies to all members of the Board and executive officers/senior management of the Company.</p>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>2.	BOARD MEMBERSHIP</h4>
+                            <p><b>2.1</b> <span class="underline">Composition of the Board</span></p>
+                            <p>The size of the Board is determined in accordance with the Company's Memorandum and Articles of Association. At any one time, at least one-third (1/3) of the Board members are independent directors. The Board must comprise a majority of independent directors where the chairman of the Company is not an independent director.</p>
+                            <p>The members of the Board will have an appropriate and broad range of qualifications and expertise.</p>
+                            <p>The Board shall appoint a Senior Independent Non-Executive Director to whom concerns relating to the Company may be conveyed by the shareholders or stakeholders.</p>
+                            <p>The composition and size of the Board are reviewed from time to time to ensure its appropriateness. </p>
+                            <p><b>2.2</b> <span class="underline">Appointments And Re-Election</span></p>
+                            <p>The Nomination &amp; Remuneration Committee is responsible for assessing the required mix of skills, experience and specializations of the candidates which director should bring to the Board before recommending to the Board for appointment. The Nomination &amp; Remuneration Committee also assesses the board effectiveness, the contribution and commitment of the each Director annually.</p>
+                            <p>The Company's Articles of Association provides that at least one third of the Directors retire by rotation at each Annual General Meeting and all directors retire from office once at least every three (3) years and shall be eligible for re-election. The Managing Director shall also retire once in every three (3) years subject to re-election and re-appointment.</p>
+                            <p>Director who attains the age over 70 shall retire at every Annual General Meeting in accordance with Section 129(6) of the Companies Act, 1965 and may offer themselves for re-appointment to hold office until the next annual general meeting. </p>
+                            <p><b>2.3</b> <span class="underline">Independence of Directors</span></p>
+                            <p>The Board considers an independent Director to be a Director who is:</p>
+                            <div class="list list-style__arrow3">
+                              <ul>
+                                <li>is not an executive director of the Company or any related corporation of the Company;</li>
+                                <li>has not been within the last 2 years and is not an officer (except as a non-executive director) of the Company or any of its related corporation;</li>
+                                <li>is not a substantial shareholder of the Company or any of its related corporation;</li>
+                                <li>is not a family member of any executive director, officer or major shareholder of the Company or any of its related corporation;</li>
+                                <li>is not acting as a nominee or representative of any executive director or major shareholder of the Company or any of its related corporation;</li>
+                                <li>has not been engaged as an adviser by the Company or its related corporation under such circumstances as prescribed by the Exchange or is not presently a partner, director (except as an independent director) or major shareholder, as the case may be, of a firm or corporation which provides professional advisory services to the Company or its related corporation under such circumstances as prescribed by the Exchange; and</li>
+                                <li>has not engaged in any transaction with the Company or its related corporation under such circumstances as prescribed by the Exchange or is not presently a partner, director or major shareholder, as the case may be, of a firm or corporation (other than subsidiaries of the Company) which has engaged in any transaction with the Company or its related corporation under such circumstances as prescribed by the Exchange.</li>
+                              </ul>
+                            </div>
+                            <p>The Board will review the independence of each director from time to time. In determining the independence of a Director, the Board will consider the effect of a Director's business and other relationships and interests from both the Company's and the Director's perspectives.</p>
+                            <p><b>2.4</b> <span class="underline">Tenure for Independent Directors</span></p>
+                            <p>As a general policy, the tenure for an Independent Director of the Company shall not exceed a cumulative term of 9 years.</p>
+                            <p>Notwithstanding this, an Independent Director may continue to serve as a member of the Board beyond 9 years subject to the director's re-designation as a non-independent director. Subject to the approval of the Company's shareholders being obtained, the Board may recommend and justify in the event it retains an independent director who has served a cumulative term of 9 years as an independent director of the Company.</p>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>3.	BOARD ROLES</h4>
+                            <p><b>3.1</b> <span class="underline">Duties and Responsibilities</span></p>
+                            <p>The role of the Board of the Company is to provide strategic guidance to the Company and effective oversight of its management for the benefit of Shareholders and other stakeholders.</p>
+                            <p>The responsibilities of the Board include the following:</p>
+                            <div class="list list-style__arrow3">
+                              <ul>
+                                <li>Formulating and adopting a strategic plan for the Company and the Group;</li>
+                                <li>Overseeing and evaluating the conduct of business of the Company and the Group;</li>
+                                <li>Identifying significant risks and ensuring implementation of a proper risk management system to manage such risks; </li>
+                                <li>Ensuring that the Company has appropriate corporate governance structures in place including standards of ethical behavior and promoting a culture of corporate and social responsibility;</li>
+                                <li>Reviewing the adequacy and the integrity of the management information and the internal control systems of the Company and the Group;</li>
+                                <li>Establishing executive succession plan; and</li>
+                                <li>Developing and implementing a shareholder communication policy for the Company to ensure effective communication with its shareholders and other stakeholders.</li>
+                              </ul>
+                            </div>
+                            <p>The Board of the Company retains ultimate authority over the day-to-day management of the Company, however, the Board delegates responsibility for the day-to-day management of the Company to the Executive Committee and/or the Chief Executive Officer (CEO).</p>
+                            <p><b>3.2</b> <span class="underline">Matters Reserved for the Board</span></p>
+                            <p>The following are matters specifically reserved for the Board for consideration:</p>
+                            <div class="list list-style__arrow3">
+                              <ul>
+                                <li>Approval of strategic corporate plans;</li>
+                                <li>Approval of annual budgets, including major capital expenditure;</li>
+                                <li>Approval of new ventures;</li>
+                                <li>Approval of material acquisitions and disposals of undertakings and properties;</li>
+                                <li>Approval of annual and quarterly results; and</li>
+                                <li>Changes to the management and control structure within Group, including key policies, delegated authority limits.</li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>4.	BOARD STRUCTURE AND PROCEDURE</h4>
+                            <p><b>4.1</b> <span class="underline">Board Committees</span></p>
+                            <p>The Board delegates certain responsibilities to the following Board Committees to assist in execution of its responsibilities: </p>
+                            <div class="list list-style__arrow3">
+                              <ul>
+                                <li>Executive Committee;</li>
+                                <li>Audit Committee;</li>
+                                <li>Nomination &amp; Remuneration Committee; and</li>
+                                <li>Option Committee.</li>
+                              </ul>
+                            </div>
+                            <p>The Board Committees shall operate within clearly defined terms of references. The Board may establish additional committees to assist it in carrying out its responsibilities. The Board may also delegate specified responsibilities to ad hoc committees from time to time. The Chairman of the respective Committees reports to the Board on the key matters deliberated at their respective meetings and their recommendation thereon. Such reports or minutes will be included in the Board papers.</p>
+                            <p>Directors must be satisfied that the members of the Board Committees are competent and reliable and will exercise their delegated functions in accordance with Directors' duties. Membership and performance of Board Committees is assessed at least once every year by those committees and the Board.</p>
+                            <p><b>4.2</b> <span class="underline">Board Meetings</span></p>
+                            <p>The Board of the Company will meet regularly in accordance with an agreed schedule and special meetings are held as required.</p>
+                            <p>All Directors will be provided with the performance and progress reports on a timely basis prior to the scheduled Board meetings. A full agenda of the meeting and all Board papers, including complicated issues or specific matters, would be distributed in advance to ensure Directors are well informed and have the opportunity to seek additional information, and are able to obtain further clarification from the Company Secretary, should such a need arise. Where necessary, the services of other senior management or external consultants will be arranged to brief and help the Directors clear any doubt or concern.</p>
+                            <p>Where a Director is directly or indirectly interested in any transaction entered into by the Company, he has a duty to make an immediate declaration to the Board and he is required to abstain from deliberations and decisions of the Board on the transaction.</p>
+                            <p><b>4.3</b> <span class="underline">Access to Information and Independent Advice</span></p>
+                            <p>All Directors, whether as a Board or in their individual capacity have full access to the Senior Management and advice of Company Secretary in relation to the information within the Group and to obtain independent professional advice in furtherance of their duties at the expense of the Company/Group, if required, so as to ensure the Directors are able to make independent and informed decisions.</p>
+                            <p>If a director considers that professional advice is necessary, the director shall first obtain the approval of the Board. In the event that one or more directors seek to appoint one or more advisors, the Chairman should take steps to facilitate discussions to arrive at a consensus. Fees for the independent professional advice will be payable by the Company but proper approval of the Board will be required.</p>
+                            <p><b>4.4</b> <span class="underline">Board Review</span></p>
+                            <p>The Board, through Nomination and Remuneration Committee, will review the size and composition of the Board at least annually.  The Board will also assess the Board’s performance, at least annually, in order to confirm that its processes and procedures remain adequate to ensure that it is carrying out its functions as effectively as possible.</p>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>5.	DIVISION OF ROLES BETWEEN CHAIRMAN OF THE BOARD AND CEO</h4>
+                            <p><b>5.1</b> The positions of the Chairman and Chief Executive Officer (CEO) shall be held by different individuals to ensure there is a balance of power and authority. The Chairman of the Board is responsible for the leadership, effectiveness and conduct of the Board while the CEO has overall responsibility over the business units and day-to-day management of the Company, organizational effectiveness and implementation of Board policies, strategies and decisions.</p>
+                            <p>The responsibilities of the Chairman, amongst others, are as follows: </p>
+                            <div class="list list-style__arrow3">
+                              <ul>
+                                <li>Leading the Board and ensuring its effectiveness of all aspects of its role;</li>
+                                <li>Ensuring orderly conduct and proceedings of the Board and general meetings;</li>
+                                <li>Facilitating the effective contribution of all Directors at Board meetings; and</li>
+                                <li>Ensure effective communication with shareholders and relevant stakeholders.</li>
+                              </ul>
+                            </div>
+                            <p><b>5.2</b> The Executive Director is responsible for:</p>
+                            <div class="list list-style__arrow3">
+                              <ul>
+                                <li>The development and implementation of the Group's business directors, strategies and policies are effectively implemented;</li>
+                                <li>Ensuring that Board decisions and policies set by the Board are implemented effectively;</li>
+                                <li>Ensuring that an effective management succession plan is in place to sustain continuity of operations; and</li>
+                                <li>Responsible for the effective management of the Group's day-to-day operations.</li>
+                              </ul>
+                            </div>
+                            <p><b>5.3</b> The CEO may but must not necessary be a member of the Board.</p>
+                            <p>The responsibilities of the CEO, amongst others, are as follows:</p>
+                            <div class="list list-style__arrow3">
+                              <ul>
+                                <li>Developing and implementing the business direction and strategies of the Group for consideration by the Board;</li>
+                                <li>Ensuring that Board decisions and policies set by the Board are implemented effectively;</li>
+                                <li>Ensuring efficiency and effectiveness of the operation for the Group;</li>
+                                <li>Assessing business opportunities which are of potential benefit to the Group; and</li>
+                                <li>Ensuring that the Board and Board Committees are provided with sufficient information in an accurate and timely manner regarding the Company's operations, performance, financial conditions, operating results and prospects, to enable the Board and the Board Committees to fulfill their governance obligations.</li>
+                              </ul>
+                            </div>
+                            <p><b>5.4</b> The responsibilities of the Independent Non-Executive Directors include the following:</p>
+                            <div class="list list-style__arrow3">
+                              <ul>
+                                <li>Providing independent and objective views, assessment and suggestions in deliberations of the Board;</li>
+                                <li>Ensuring effective check and balance in the proceedings of the Board;</li>
+                                <li>Mitigating any possible conflict of interest between the policy-making process and day-to-day management of the Group;</li>
+                                <li>Constructively challenging and contributing to the development of the business strategies and direction of the Company; and</li>
+                                <li>Ensuring that there are adequate systems and controls to safeguard the interests of the Company and all stakeholders.</li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>6. DIRECTORS' REMUNERATION</h4>
+                            <p>The performance of Directors is measured by the Directors' contribution and commitment to both the Board and the Company. The Executive Directors and senior management's remuneration will depend on the performance of the Group and the achievement of the goals (including quantified organizational targets, Key Performance Index and/or personal achievement) set at the beginning of each financial year, upon finalization of the ensuing years' budget.</p>
+                            <p>The annual Directors fees payable to Non-Executive Directors are endorsed by the Board for approval of the shareholders of the Company at the Annual General Meeting (as per CA and LR). In fixing the compensation to be paid to Non-Executive Directors, the Board will consider the level of responsibilities undertaken by the particular Non-Executive Director.</p>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>7. DIRECTORS' TRAINING AND CONTINUING EDUCATION </h4>
+                            <p>In additional to the Mandatory Accreditation Programme as required by Bursa Malaysia Securities Berhad, the Directors shall continue to update their knowledge and enhance their skills through appropriate continuing education programmes which are relevant to the Group's operations and business. The Board will assess the training needs of the Directors and ensure Directors have access to continuing education programs. This will enable Directors to effectively discharge their duties and sustain active participation in the Board deliberation.</p>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>8. INVESTOR RELATIONS AND SHAREHOLDER COMMUNICATION</h4>
+                            <p>The Board and Management convey information about the Company's performance, corporate strategy and other matters affecting shareholders' interests to the shareholders and investors through timely dissemination of information which include distribution of annual reports and relevant circulars and issuance of press releases. The Company has established a corporate website which shareholders and members of the public can access for up-to-date information relating to the Group.</p>
+                            <p>The Board regards the general meetings of the Company as the principal forum for dialogue with the shareholders of the Company. Shareholders are accorded the opportunity to ask questions and seek clarification on the resolutions being proposed at the general meetings and on matters relating to business, performance and prospects of the Group. Members of the Board, Senior Management and the External Auditors are present to respond to shareholders' questions during the meeting.</p>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>9.	CODE OF ETHICS</h4>
+                            <p>The Directors observe a code of ethics in accordance with the Company's Directors' Code of Ethics established by the Companies Commission of Malaysia.</p>
+                          </div>
+                          <div contenteditable="true">
+                            <h4>10.	REVIEW OF BOARD CHARTER</h4>
+                            <p>This Board Charter shall be periodically reviewed and may be amended by the Board as it deems appropriate.</p>
+                          </div>
+                        </div>
+                        <!-- end clearfix -->
+                      </div>
+</div>
+                    <!-- end clearfix -->
+                  </div>
+                </div>
+                <!-- save button start -->
+                <div class="form-actions none-bg"> <a href="#preview in browser/not yet published" class="btn btn-red">Save &amp; Preview &nbsp;<i class="fa fa-search"></i></a>&nbsp; <a href="#publish online" class="btn btn-blue">Save &amp; Publish &nbsp;<i class="fa fa-globe"></i></a>&nbsp; <a href="#" class="btn btn-green">Cancel &nbsp;<i class="glyphicon glyphicon-ban-circle"></i></a> </div>
+                <!-- save button end -->
+              </div>
+              <!-- End portlet-->
+            </div>
+          </div>
+        </div>
+        <!-- TemplateEndEditable -->
+        <!--END CONTENT-->
+            
+        <!--BEGIN FOOTER-->
+  <div class="page-footer">
+                <div class="copyright"><span class="text-15px">2016 © <a href="http://www.webqom.com" target="_blank">Webqom Technologies Sdn Bhd.</a> Any queries, please contact <a href="mailto:support@webqom.com">Webqom Support</a>.</span>
+                	<div class="pull-right"><img src="../admin_html/images/logo_webqom.png" alt="Webqom Technologies"></div>
+                </div>
+        </div>
+    <!--END FOOTER--></div>
+  <!--END PAGE WRAPPER--></div>
+</div>
+<script src="../admin_html/js/jquery-1.9.1.js"></script>
+<script src="../admin_html/js/jquery-migrate-1.2.1.min.js"></script>
+<script src="../admin_html/js/jquery-ui.js"></script>
+<!--loading bootstrap js-->
+<script src="../admin_html/vendors/bootstrap/js/bootstrap.min.js"></script>
+<script src="../admin_html/vendors/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js"></script>
+<script src="../admin_html/js/html5shiv.js"></script>
+<script src="../admin_html/js/respond.min.js"></script>
+<script src="../admin_html/vendors/metisMenu/jquery.metisMenu.js"></script>
+<script src="../admin_html/vendors/slimScroll/jquery.slimscroll.js"></script>
+<script src="../admin_html/vendors/jquery-cookie/jquery.cookie.js"></script>
+<script src="../admin_html/js/jquery.menu.js"></script>
+<script src="../admin_html/vendors/jquery-pace/pace.min.js"></script>
+
+<!--LOADING SCRIPTS FOR PAGE-->
+
+<script src="../admin_html/vendors/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+<script src="../admin_html/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+<script src="../admin_html/vendors/moment/moment.js"></script>
+<script src="../admin_html/vendors/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+<script src="../admin_html/vendors/bootstrap-timepicker/js/bootstrap-timepicker.js"></script>
+<script src="../admin_html/vendors/bootstrap-clockface/js/clockface.js"></script>
+<script src="../admin_html/vendors/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script>
+<script src="../admin_html/vendors/bootstrap-switch/js/bootstrap-switch.min.js"></script>
+<script src="../admin_html/vendors/jquery-maskedinput/jquery-maskedinput.js"></script>
+<script src="../admin_html/js/form-components.js"></script>
+
+
+
+<!--LOADING SCRIPTS FOR PAGE-->
+<!-- TemplateBeginEditable name="EditRegion4" -->
+<script src="../admin_html/vendors/tinymce/js/tinymce/tinymce.min.js"></script>
+<script src="../admin_html/vendors/ckeditor/ckeditor.js"></script>
+<script src="../admin_html/js/ui-tabs-accordions-navs.js"></script>
+<!-- TemplateEndEditable -->
+
+<!--CORE JAVASCRIPT-->
+<script src="../admin_html/js/main.js"></script>
+<script src="../admin_html/js/holder.js"></script>
+</body>
+</html>

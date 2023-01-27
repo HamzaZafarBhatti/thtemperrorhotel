@@ -1,0 +1,505 @@
+{\rtf\ansi\deff0\fs20
+{\fonttbl{\f0 Times New Roman;}{\f1 Arial;}}
+{\colortbl;\red0\green0\blue0;\red127\green127\blue127;\red28\green63\blue148;\red102\green102\blue102;\red89\green89\blue89;}
+{\info
+}
+\paperw11907 \paperh16840 \deftab1298 \margl851 \margr567 \margt1134 \margb1134 \pgnstart1\ftnnar \aftnnrlc \ftnstart1 \aftnstart1 {\header }
+{\footer {\fs20 \f1 \line Copyright @ 2016 JobStreet.com}
+}
+
+\pard\trowd\trql\clvmgf\clpadft3\clpadt227 \clpadfl3\clpadl284 \cellx1814\clvmgf\clpadft3\clpadt113 \clpadfb3\clpadb57 \cellx10489
+
+
+\intbl\itap2
+\ql\ql {\*\shppict {\pict\jpegblip\picscalex100\picscaley100\picwgoal1418\pichgoal1418 ffd8ffe000104a46494600010100000100010000fffe003e43524541544f523a2067642d6a7065672076312e3020287573696e6720494a47204a50454720763632292c2064656661756c74207175616c6974790affdb004300080606070605080707070909080a0c140d0c0b0b0c1912130f141d1a1f1e1d1a1c1c20242e2720222c231c1c2837292c30313434341f27393d38323c2e333432ffdb0043010909090c0b0c180d0d1832211c213232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232ffc00011080096009603012200021101031101ffc4001f0000010501010101010100000000000000000102030405060708090a0bffc400b5100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faffc4001f0100030101010101010101010000000000000102030405060708090a0bffc400b51100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faffda000c03010002110311003f00dc2b46ca9b03d2803dabd5b9f3f621c0a36d4d81e946171cd170b15dc638ae37c53abeccdac27b726ba7d62f05959c929c671815e637b2b5c1795ba9249cd72e26af2ab2ea7a181c3a9cb9e5b2312e9cb31279aa641c74e6af32127047269d159932aef180466bce6ec7b1cadb288c85e7a0a4c5692da875f947f162a7bfd3045189514e38cfe547321ba4ed731c2e2ad444e3069162278c548b1b29c11c8a64245fb29de09a3910e0af71dabd3b43d4e3d4acd4e7f78bc38feb5e5d02e73ebdab7f46bd6d3ae92552769e187ad6f42aba72f2673e2a82ab0bf547a36dfc476341526a48ca4b12c919ca30047d29e178af4d3d0f05c7520d868db53ed18a4d828b85884ad1536ca28e61327da6976f6a9b651b2b3b9b58876535930a7deac6c151cc44485cf4504d170e5382f18df07b8168a781f33572823f3c85ea0f5a9757be371737170cc0ee7e3e954ad6fd04993d09c579b527cf26cf76853f670512782c374a0b8c64f02b4f58d3859dbda4a06370da69be1c1fda7abee271146d9aeb7c516714ba6aa8396072315c7397bc91e85287b8e4ce16cedffd66470a41ae9a4d3565b68411c49f2fe82aad9c11ed9178c902ba0b1c5ce98c8a3e68c82a7dc512d351c15d58f3c7d39a192489ff0084f5f7f4a956d84ac1f70208c56f788e154437512f1d5ab8f5be65970840463c8ada0eeae73548b8bb1aab69e538200dbeb5232111919ce0e6a9c3a9a9568df047ad3a1bd47760791d315641e81e0fd445d5ac9692366587eefd2ba5d83bd79568ba9ff666bb6f286fddb9d8dee0f03f5c57ad210e8aebd180aefa152f1b1e3e2e8f254bad88f65284a9b6fb51b4d6d7396c40509e828a9f6f3cd149cac4b893e07a5181e953ec1e949b41ed5373a2c425062b03c59786cf469029f9a41b4574a531c8ae07e20dc9510c00f5e4d45495a2d9a508735448f35d558c712af4aca12302147d6aeea4c64940ce714ba2e9b26a17eaa8a58272d5e749d95cf6526e564769e17d22e62b0dea982fce4d6cdce87aaadb4974f3828570173d2afc37c2c52386183cd908e17b7e3546dfc6ed7772d61716aaa19ca02b9c822b939e4f5477f2c62b95b395b3966b7d4e069b20799b0d75da697b3bc910f31b37f3ab87c3515d4a187009de38ee2b61b47f26e03b2828c073ef8c54caa73170a5cbb1cfeb56b0f90cc14b46e3a62bc96fe07b4bc6c2909bba9af7e5b3b711379d8d80721ab9cd674cd0755b6782278c4b8e08233574ea5b44655a9736a78d893078e09f5a7acc55b23d2a7d574b974db82ac3e51d0fad50573823af35d6b5381a717666a2cc5d79e30320d7b2f83b521aa787e16cfcf1feedfea2bc491be45e3a577ff0cb5011de5c59bb7cb2e1947a1ada84b965630c5439e9fa1e9db4d1b0d4db4d2ed18aeeb9e558836d153797456727a8b959676d1b6a6db46ca9b9bf290118af25f1e5c0935c3183908a07f3af5e75da8c7dabc47c55379baece40fe2c5655a5eed8e9c2c3dfb9c8df2f973bf3df15ea3e01d192df4b5919079b30249f6af34be8f370037f138fd4d7b3f86544765120eca00af36bc9d923d9c2c5393668b691f3f98063e9e95420f0bdaa6a46ed20025ebbb15d785561d302944417915ca9c96c77b49ee8a515b884a0ee2a7b86fdd54734eb1be1ba9e94cbb947d9f3e9d695cab19fabe9cd7fa64b0a1da5c609cd70ba678467b4bb925b92ae0295400d7a6da3096007a8349258a939000cd5466e2ac8ce708c9ea7936b9e1c94e97316c928b95af3455daecadc60f22be94d52d2236ae8cb904735f3d6bf6c2d35db989785dd915d3879df4387174d2b3440c49e071915b5e1ebf6b2d420981380dce2b177e1578e7bd5bb69123753ce335d49d9dce47ef268fa3edd96581645e43006a5c67b564f85a5f3f458416dc554007d456e04aec52d0f2a50b322db9e28a9b6f3452635027da690a9ab1b051b07e159731bf214a753e51f4af06d78eef105d007a3915eff0070a042f9ee2be7ad6650fe20bb6031fbce054547a1b61a366cccba405c67a8607f5af5cf0e499b184ffb231f957934ebc6e03b64d7a6784e612697095e70315c55d688f570eecd9dfc2c1947353b300a6b3209f68e7a54af73c572dec76dae665c6a305ab2cb34724acefb46c4ddb7dcfa54b79abd8a59832be171ce4127f2a70550c59571bbad452dbc4c306256eff30a1586ee59d2a68987ee9b28c03838c56abb71c1ac5b62b0c85947278f61575a61d33d450989aea676b33ed85b9e6bc2bc4ebe76b45c725abd8b5e9c881f9ed5e25713b5deb52ff755f0b5d3875ab67162ddd24432a811e08e453118e00f7a91d7e6c134b6d19698263daba4e3b1ed9f0e6e8c9a545037de55e07ae2bb9d9ed5c178360f216054c86518fd2bd053e65048c1ae88cb438aa47de222945580bcd155cc25127da28da31d29d83460d63736b14ef107d9e4e0f0a79f4af9db5e807f6e5d32b71bf8afa2ef47fa24b9fee9c62bc0bc516e61d5e5c704f3533d8d68ee61cdd146782bf9d75de0fd4d6222d5980279515c9a8fdd80fc9c1033554dd4f6652e613f3c473f5ac651e68d8ea8cf96573dda19432e33515f2de1556b7c71d8d735e1bf1141abd9a32b81281f3afa1aeb639be41ce6b8a5169ea7a109a6b43163b9d49e401c679e8a7153dc4fa805cf96c00f561fe35b1f670c030519fd6836c5c6186454dd1d0a4adb1836f71a84d32af92303ab66b659d9305bd2a4655b6ced0326b2b51be5881dc7a0ce69ee62da460f8c7534b5d2a7909c311b5477c9af2ed163696492661d4e735a5e32d565d4a648909f2437e751e93188edb0073b6bba8c79607975e5cd52dd8ad3c7bb0d8ef8a9e1b7f2e78dd71cf34aea33b09c07e73525a3665543d54f5abb936d0f5df0c7eed2d5c8e1860fe55dec603203d2b88f0b813e90985c34641fc475aede1522200f4eb5a2672c96a3f673452f34555c5627c52114fc7bd21159dcd2c54bc04c5b077af10f880822d6ce0f3b01c7e26bdb2f65588649e00c9cd78378d7505d475d76403cb41b41f5e4d296c5d35a982bb8aa77cf63514d007439ec7ad4e093b40ec78a7320f2b93d7afd6a11ab2a7870cc1d8c2e5668c9e9debd1f47f1070b15dfcaf5e79e1e9162f10347918932315df5c6949328651b5fb62b0acbde3a6837ca773657913c790c08f5aba6e2354c9615e6105c5fe9d2f965c951eb56e4d6af1d71902b0e53a954d0e9b54d561815dcb0f6ae0b52bdb8d4a66442769e38a9e413de498762735b5a668c89866009aa56466ef23ce7c4160b6e2dd4ae3069d60a561208eab5b7f1063584dba818cbd635a0db17b6daeca6fdd470d48da6c8654c85e3240a6da1dac33d8d4ec7e40718e2a28e4027c2a8e47eb54c0f63f05fcd6cd8fb9c0c1f4aeee3e154579ff826506d964c0dac0647bf6af408cf029a309ad479a283455264589f1ef54ef6fe0b189a499c64720571daf7c4cb0b36fb2e969f6ebb7e02a7407d6a9e97e15f1078a2e16f7c4574f6b6adc8b584e18afb93d2958b659d46e6e75d6602402220e63439f97a9dc7f0e95e47aeb14d6248c03b47ca38c703a1afa2d74ab5b1b26b7b6855230bb723a915f3df8c1d5bc5b7622002a6170294b63486e66231099cf3c1ab30b0685c13c8e6a931c4473eb53da4a364c073c62a11a48c7791adb56132920a90d9af62d1ee56f74e867c755e6bc72fe406e863aecc9af4bf87d7c935bbd93907660fe047ff00aeb3af1f7532f0f2f79c4eb25d323b9883ed1f5aa07498c1e057496b098f313723b509641e62a4e306b92e77f298f65a482e0ed15acb6de5c8a80715a70daac238a8254db2b3e493e94f515923c77e25cc8758b7b753caf2c2b1a0701428e84547e2fb97baf155cbb9f9448c00f619151db49f301fecf15db15cb0479f27cd364b17ccacadc953d2a01b8c8a46383cd3a26267273d4539d76c9903ad53251d268cfafc105c1d2676630fced0f2770f6a9d3e28f892dc947d8597821d4715adf0f262daa2281f318c46e0f7e83ffaf5d078e3e1ac3a9c4da8690a52f42fef22fe197dc7a1aa8ec653dce4adfe2f6b71bb7990c1264740a38fd28af3e9e096da77865529221dac1b8208eb455a259ee7e05bef01c2124d31e28af40c1374b875fa13fd0d7a325c24883ca951c7de18707757c8e1c83b94e0d5e835cd4ed80f26fee108f47e3f5a2e163ea1d465fb269773712672b1b364f6e2be59bebb13ea97130fe390b13f8d6aff00c27de2436b2dac9a934b048bb4aba827f3ae7125523047cd9ce6b39170d8bb20061233d79a6c1204825238c9fe94a48f209f4e82a95d4c52dd117866eb49172d8ad2e5e55cfa727d45751e0ebbfb0f89ad307e499403f5c9ae6e18d9d813cae36d69e90c5755b47ce0c6ddbd8d3924d599306d3ba3e8a823042923902a66846723ad3e150f691dca636b0f5a5dc6b8670e57a9e9d3a9ceae80636629b6b6de63bca40d8878cd0c7238ee71572e00b5d31f8fe027ea6b5a10e67af432af5396365d4f99bc4f0e2ffcfc7324b2723bfcd54ad1889d413d38ae9fc55a6187c33a75f63ef3b03cfaf35c95bb62e63c9ea6ba5ec7145da45a0db243cf1daacc8d8d8d9aa0e092bf4fd6ad2379967f37df539a459dcfc37ba53ae0424062a4827bd7b943fbc4041391dbd3dc57cc9a0eacba4dfc57982442d9603b83dabd0a5f8e290a79561a31771fc72cbc0fc00aa8333a9a1dbf897c09a4f88a549ee2358ae41f9a641feb07be3ad15e5773f1abc4cf29f22df4f893fbbe531fd77515a18ea701db34d268a2916300dcf8f6a64432cdbb9c514566f7345b22ca7cd6c4838c1aa5349bdb71cf1c51451114cd0d3a1cd889c9caf9bb4afe06ae69c8a35183d19c8e3ad1450c227d25a1a89b478d580cb46067f0a871b1cafa1a28ac710bdd474615be6689ad6106504ff00dd5675bfdc6877b70ff0033ac25be9c76a28aba097299e25b723c8fc6b6a23f869a5c9f2e1821f7e4579321f9f77a1a28ad19922e4bd580ecd9a2d9cb1dbfde18a28accd0154ab94ce411826a0d9d4f5fa9a28ab8ee4cb61aa68a28ad4c4fffd9}}{\nestcell{\nonesttables\par}\pard}
+{\*\nesttableprops \trowd\trql\trrh1701\cellx1985\nestrow}
+\intbl\itap1\~\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs28 \f1 \cf3 \b Chan Soo Yin\b0 \line }
+}\intbl\itap1
+\ql{\fs22 \f1 \cf4 \b HR Junior Executive (2 years 5 months)\line Eastern Decorator Sdn. Bhd.\b0 }
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx1814\cellx2948\cellx10489
+
+{}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmrg\cellx1814\clvmgf\cellx10489
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sa124 {\fs20 \f1 (+60) 165216543 | kinki_sy_chan@hotmail.com | MYR 2,800 | Ipoh, Perak}
+\cell
+
+\row
+\pard\itap0
+\par \pard\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx2495\clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx4196\clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Experience\b0 }
+\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl227 \clpadfb3\clpadb227 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs22 \f1 3 years of total experience}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs20 \f1 Oct 2013 - Mar 2016}
+}\intbl\itap1
+\ql{\fs18 \f1 \cf2 \line (2 years 5 months )}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b HR Junior Executive\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Eastern Decorator Sdn. Bhd.}
+\intbl\itap1
+\ql{\fs20 \f1  | Perak}
+\intbl\itap1
+\ql{\fs20 \f1 , Malaysia}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Industry}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Transportation / Logistics}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Specialization}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Human Resources}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Role}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 General HR}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Position Level}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Junior Executive}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 MYR 2,600}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\clpadfl3\clpadl170 \cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 1. Recruitment & Selection\line \uc0{\u8226}	Review applicants to evaluate if they meet the position requirements\line \uc0{\u8226}	Assist in performing reference and background checks for potential employees\line \uc0{\u8226}	Coordinate with candidates to complete the necessary documents for interview including personality profiling\line \uc0{\u8226}	Screening and matching the candidates with the vacancies\line \uc0{\u8226}	Implement interview process based on job requirements\line \uc0{\u8226}	Arrange urine test for potential driver candidates after interview\line \uc0{\u8226}	Advertise staff vacancies on newspaper and etc.\line \uc0{\u8226}	Update recruitment and new join status for payroll purpose\line \uc0{\u8226}	Provide orientation program for new employees\line \uc0{\u8226}	Involve and assist job fair (distribute recruitment flyers and assist administration work)\line \uc0{\u8226}	Renew of recruitment banner license\line \uc0{\u8226}	Update Organizational Chart (OC) and coordinate job description review to ensure jobs are well managed and up to date information.\line \line 2. Administration\line \uc0{\u8226}	Prepare employment letter and job description for new staff\line \uc0{\u8226}	Announcement of new joiners to all employee and new joiner office tour\line \uc0{\u8226}	Prepare acceptance of resignation letter after the exit interview\line \uc0{\u8226}	Prepare testimonial (if any)\line \uc0{\u8226}	Prepare and serve confirmation and extension letter \line \uc0{\u8226}	Handling internship application (offer letter, acceptance of internship, period of internship, performance rating, lecturer visitation and etc.)\line \uc0{\u8226}	Prepare mid-month advance and loan application\line \uc0{\u8226}	Responsible for day-to-day administrative support and any other ad-hoc as assigned\line \line 3. Petty Cash\line \uc0{\u8226}	Collect and update driver & lorry assistant outstation trip vouchers from Shipping Department\line \uc0{\u8226}	Update data and maintain the record of the cash flow\line \uc0{\u8226}	Ensure the cash flow report is accurate and tally with the voucher receive from Shipping Department\line \uc0{\u8226}	Liaise with Finance Department of the cash requisition\line \line 4. Disciplinary / Employee Relation\line \uc0{\u8226}	Monitor staff attendance\line \uc0{\u8226}	Liaise with Head of Department for all kind of counseling and verbal warning given\line \uc0{\u8226}	Prepare counseling letter, warning letter, show cause letter, breach of contract, dismissal letter and etc. \line \uc0{\u8226}	Counseling staff about any problems they may have, either at work or personally\line \uc0{\u8226}	Prepare & conduct for Domestic Inquiry (DI)\line \uc0{\u8226}	Prepare discipline letter towards non-compliance employees\line \uc0{\u8226}	Prepare and generate discipline reports\line \uc0{\u8226}	Prepare show cause letter for missing-in-action (MIA) employees\line \uc0{\u8226}	To review and cases reported of HR involving misconduct / employment issues and liaise with respective departments for further investigation or to conduct primary investigation & prepared investigation reports for Management evaluation.\line \uc0{\u8226}	Assist in facilitating any collaborative problem solving strategies to resolve employee relation's issues.\line \line 5. Learning & Development\line \uc0{\u8226}	Administer in-house development programs such as on-job training or in-house training\line \uc0{\u8226}	Assist & implement HR system (Bossnet) within the company such as leave management, report management, claim management and others.\line \uc0{\u8226}	Gather training evaluation forms and other feedbacks from employees and the line manager to access the effectiveness of program to recommend next course of actions.\line \uc0{\u8226}	Assist & implement of Employee Handbook within the company.}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Education\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 2013}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Universiti Tunku Abdul Rahman (UTAR)\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Bachelor's Degree}
+\intbl\itap1
+\ql{\fs20 \f1  in Business Studies/Administration/Management}
+\intbl\itap1
+\ql{\fs20 \f1  | Malaysia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Major}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Business Administration}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Grade}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Grade C/2nd Class Lower}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 With CGPA - 2.28}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 2009}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Universiti Tunku Abdul Rahman (UTAR)\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Higher Secondary/STPM/"A" Level/Pre-U}
+\intbl\itap1
+\ql{\fs20 \f1  in Arts}
+\intbl\itap1
+\ql{\fs20 \f1  | Malaysia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Major}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Business Administration & Management}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Grade}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Grade B/2nd Class Upper}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 With CGPA - 2.53}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Skills\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Intermediate}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Microsoft Office 2007, Bossnet E-modules, Employment Act, Employee Relations}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Languages\b0 }
+\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl113 \clpadfb3\clpadb113 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 \i Proficiency level: 0 - Poor, 10 - Excellent\i0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Language}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Spoken 	Written }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 English (Primary)}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1    8 	   8}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Chinese}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1    9 	   9}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Bahasa Malaysia}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1    7 	   7}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Additional Info\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Expected Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 MYR 2,800}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Preferred Work Location}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Perak, Selangor, Penang}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\cellx4196\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Other Information}
+\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 I'm self-independent, good interpersonal & communication skill and able to handle work pressure well. Besides, I'm also well-versed with Employment Act & Industrial Relation Act. As a professional HR, I will keep all the documents and information as private & confidential.\line \line There are descriptions for my job knowledge as below:\line \line 1. Monthly payroll process:\line - Check attendance & time for employees\line - Leave management\line - Leadership incentive preparation\line - Driver & lorry assistant incentive preparation\line - Claim Management\line - Update data for increment, promotion, salary advance, salary deduction and etc.\line \line 2. Manpower planning & Recruitment:\line - Update organizational chat and manpower planning\line - Prepare recruitment advertisement on newspaper / career website\line - Participate for interview & select candidates which are matches with company requirements\line - Study & research on recruitment within company\line - Liaise with university for internship arrangement \line - Participate in career fair \line \line 3. Disciplinary procedure:\line - Prepare warning letter, show cause letter and breach of contract, etc.\line - Counseling staff while they are facing difficulties or misconduct\line - Follow up for document preparation for missing in action (MIA) staff\line - Prepare monthly lateness & absent report\line - Preparation for domestic inquiry (DI)\line \line 4. Administration :\line - Induction programs for new join employee\line - Prepare appointment letter, confirmation letter, extension letter, promotion letter, increment letter, acceptance letter of resignation, testimonial (if any) and etc.\line - Handle incoming call\line - Handle for SOCSO case\line - Responsible to day-to-day administrative support and any other ad-hoc duties as assign\line \line 4. Operation meeting:\line  - Meet up with all company HODs once per month to update the status of their department such as absent & lateness rate, turnover rate, and new policies implementation , etc.\line \line 5. Conduct exit interview\line  - Prepare acceptance of resignation letter \line  - Exit interview with staff who going resign from the company\line \line 6. Petty cash\line  - Responsible for petty cash within the company\line  - Prepare outstation claims for drivers\line  - Prepare recommendation fees, new born baby ang pow, marriage ang pow, hospitalization gifts, condolence fees and etc.\line  - Purchasing the office stationaries and equipment}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b About Me\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Gender}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Female}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Age}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 25  }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Address}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 24,Lebuh Tembok 1, Taman Permai, 30010, Ipoh, Perak, Malaysia}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Nationality}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Malaysia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\pard\itap0
+
+}

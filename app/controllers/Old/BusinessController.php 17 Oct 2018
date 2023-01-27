@@ -1,0 +1,20 @@
+<?php
+
+	class BusinessController extends BaseController {
+
+		public function adminPaperBags() {
+			 $page = Page::where('type','=','paperbags')->where('published','=',1)->get();
+
+			  return View::make('admin.paperbags', array('page' => $page[0]));
+
+		}
+
+		public function adminCorrugated() {
+			 $page = Page::where('type','=','cartoonbox')->where('published','=',1)->get();
+
+			return View::make('admin.corrugated', array('page' => $page[0]));
+		}
+	}
+
+
+

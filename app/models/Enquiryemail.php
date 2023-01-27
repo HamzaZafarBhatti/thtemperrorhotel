@@ -1,0 +1,35 @@
+<?php
+
+use Codesleeve\Stapler\ORM\StaplerableInterface;
+use Codesleeve\Stapler\ORM\EloquentTrait;
+
+class Enquiryemail extends Eloquent implements StaplerableInterface {
+
+    use EloquentTrait;
+
+    /**
+     * The database table used by the model.
+     *
+     * @var string
+     */
+    protected $table = 'enquiry_email';
+
+    /**
+     * The attributes excluded from the model's JSON form.
+     *
+     * @var array
+     */
+    protected $fillable = ['name', 'email', 'cat_id','subcat_id','active'];
+    
+    public function category() {
+      return $this->belongsTo('Enquirycategory', 'cat_id');
+    }
+    
+    public function subcategory() {
+      return $this->belongsTo('Enquirycategory', 'subcat_id');
+    }
+    
+
+   
+
+}
